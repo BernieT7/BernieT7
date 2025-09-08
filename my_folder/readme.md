@@ -10,7 +10,7 @@ Playing basketball, dancing, and playing the guitar.
 
 ## 1. University/Graduate school
 
-    My name is Bo-Ling Zeng, and I graduated from the Department of Applied Mathematics at National Yang Ming Chiao Tung University. I am currently a master student from the Department of information management and finance at National Yang Ming Chiao Tung University.
+My name is Bo-Ling Zeng, and I graduated from the Department of Applied Mathematics at National Yang Ming Chiao Tung University. I am currently a master student from the Department of information management and finance at National Yang Ming Chiao Tung University.
    
 ## 2. Research Projects
 
@@ -38,11 +38,11 @@ Java: [GitHub Repository](https://github.com/BernieT7/JavaProject)
 
 ## 3. Lifelong Learning and Proactive Mindset
 
-    During university, I proactively pursued programming skills through school courses and online platforms like Udemy, focusing particularly on Python. My skills include web scraping, machine learning, and quantitative trading. I’ve built numerous projects and have recently begun learning C++.
+During university, I proactively pursued programming skills through school courses and online platforms like Udemy, focusing particularly on Python. My skills include web scraping, machine learning, and quantitative trading. I’ve built numerous projects and have recently begun learning C++.
 
-    Additionally, I have deepened my financial knowledge by earning various certifications. This process introduced me to concepts like financial management, investment, accounting, financial institutions, regulations, and professional ethics. I am currently preparing for the FRM exam this November.
+Additionally, I have deepened my financial knowledge by earning various certifications. This process introduced me to concepts like financial management, investment, accounting, financial institutions, regulations, and professional ethics. I am currently preparing for the FRM exam this November.
 
-    I also participated in the Taiwan Futures Exchange Options Trading Competition, placing 33rd out of 300 teams. After graduation, I seized the opportunity to join the Quantitative Trading Training Program organized by Kronos Research in collaboration with the NCTU Software Development Club.
+I also participated in the Taiwan Futures Exchange Options Trading Competition, placing 33rd out of 300 teams. After graduation, I seized the opportunity to join the Quantitative Trading Training Program organized by Kronos Research in collaboration with the NCTU Software Development Club.
 
 # Self-Expectations
 
